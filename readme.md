@@ -1,4 +1,4 @@
-## Laravel 5 Blog with [ElastciSearch]((https://www.elastic.co/) - full solutions
+## Laravel 5 Blog with [ElastciSearch](https://www.elastic.co/) - full solutions
 
 This project is the code written in PHP - Laravel 5.1 Framework. It contains full functionality solution for a blog, like a create post, edit post, add user, add permissions and role to users, comments, admin panel, searching (based on Elasticsearch), contact page, ...
 

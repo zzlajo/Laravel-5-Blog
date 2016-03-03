@@ -1,8 +1,9 @@
 vendor/
 node_modules/
-
 bootstrap/cache/
 storage/
+.idea/
+.git/
 .env.*.php
 .env.php
 .env
